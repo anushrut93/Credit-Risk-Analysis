@@ -1,4 +1,4 @@
-# Credit Risk Modeling with Logistic Regression, Random Forest and WOE Transformation
+# Credit Risk Modeling with using WOE Transformation
 
 This project demonstrates the development of a credit risk scorecard using logistic regression with Weight of Evidence (WOE) transformation and Information Value (IV) feature selection. The goal is to predict the likelihood of default for consumer loans and provide insights for risk-based pricing and strategy.
 
