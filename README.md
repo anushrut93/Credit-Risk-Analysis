@@ -268,6 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 📞 Contact
 
 For questions or collaboration opportunities:
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [linkedin.com/in/anushrut93/]
+- Email: [anushrut93@gmail.com]
+- GitHub: [@anushrut93](https://github.com/anushrut93)
