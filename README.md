@@ -1,9 +1,5 @@
 # 🏦 Advanced Credit Risk Scorecard: Production-Ready ML Pipeline
 
-[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-LightGBM%20|%20XGBoost-green.svg)](https://lightgbm.readthedocs.io/)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)](https://github.com/yourusername/credit-risk-scorecard)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 🎯 Executive Summary
 
@@ -268,6 +264,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 📞 Contact
 
 For questions or collaboration opportunities:
-- LinkedIn: [linkedin.com/in/anushrut93/]
+- LinkedIn: [[linkedin.com/in/anushrut93/](https://www.linkedin.com/in/anushrut93/)]
 - Email: [anushrut93@gmail.com]
 - GitHub: [@anushrut93](https://github.com/anushrut93)
