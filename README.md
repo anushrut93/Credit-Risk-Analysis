@@ -258,7 +258,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Acknowledgments
 
 - Dataset inspiration from Lending Club public data
-- WOE/IV methodology from "Credit Risk Scorecards" by Naeem Siddiqi
 - LightGBM optimization techniques from Kaggle competitions
 
 ---
